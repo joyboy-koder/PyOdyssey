@@ -70,6 +70,7 @@ This repository is influenced by (but not limited to):
 * Python Official Documentation
 * CS50x (Python & C foundations)
 * TopTechBoy tutorials
+* Corey Schafer tuturials
 * Practice, experimentation, and breaking things 😄
 
 I don’t blindly follow tutorials — I test, question, and rebuild concepts in my own way.
