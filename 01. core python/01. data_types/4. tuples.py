@@ -22,3 +22,8 @@ print(tuple_1)
 print(tuple_2)
 
 #### ERROR
+
+
+#Empty tuples
+empty_tuples = ()
+empty_tuples = tuple()

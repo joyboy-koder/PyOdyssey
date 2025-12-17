@@ -48,3 +48,7 @@ x = []
 x.append(45)
 x.append(78)
 print(x)
+
+# Empty list
+empty_list = []
+empty_list = list()
