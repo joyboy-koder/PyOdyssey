@@ -1,0 +1,4 @@
+CEO - Kelvin
+Manager - Clement Oduro
+Worker1 - Akwasi
+Worker2 - Ama
